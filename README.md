@@ -16,11 +16,9 @@ I'm a junior developer...
 Bash, Python and a little bit html
 
 ### My Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iwannet&repo=iwannet.github.io)](https://github.com/iwannet/iwannet.github.io) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iwannet&repo=ElonMusk_bot)](https://github.com/iwannet/ElonMusk_bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iwannet&repo=README)](https://github.com/iwannet/README) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iwannet&repo=Projects)](https://github.com/iwannet/Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iwannet&repo=repo)](https://github.com/iwannet/repo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iwannet&repo=rickroll)](https://iwannet.github.io/rickroll/)
 
 
@@ -40,7 +38,7 @@ Bash, Python and a little bit html
 
 ## Contact
 
-If you have any feedback/Questions, please reach out to me at iwannet69@proton.me
+If you have any feedback/Questions, please reach out to me at info@iwannet.cc
 
 
 
